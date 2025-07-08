@@ -1,0 +1,23 @@
+{
+  "name": "sparkathon",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "install:all": "npm install && cd backend && npm install && cd ../frontend && npm install",
+    "build:backend": "cd backend && npx tsc",
+    "build:frontend": "cd frontend && npm run build",
+    "build": "npm run build:backend && npm run build:frontend",
+    "start:backend": "cd backend && npm start",
+    "start:frontend": "cd frontend && npm start",
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "typecheck:backend": "cd backend && npx tsc",
+    "typecheck:frontend": "cd frontend && npx tsc --noEmit",
+    "typecheck": "npm run typecheck:backend && npm run typecheck:frontend"
+  },
+  "devDependencies": {
+    "@types/multer": "^2.0.0",
+    "@types/tesseract.js": "^0.0.2",
+    "typescript": "^5.8.3"
+  }
+}
