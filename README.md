@@ -1,6 +1,13 @@
 # AI for Second Lives
 
 A full-stack sustainability application designed to support Walmart's supermarket sustainability model by enhancing customer retention, promoting refillable/eco products, and increasing in-store visits through intelligent product reuse and recycling suggestions.
+<img width="1686" alt="Screenshot 2025-07-08 at 11 07 08 AM" src="https://github.com/user-attachments/assets/ec6255ec-129c-412f-8f91-848c944fe916" />
+<img width="1661" alt="Screenshot 2025-07-08 at 11 07 21 AM" src="https://github.com/user-attachments/assets/22121fcc-f504-41ff-99d9-4c14237a862d" />
+<img width="1657" alt="Screenshot 2025-07-08 at 11 07 52 AM" src="https://github.com/user-attachments/assets/53a0892d-6e90-4f77-812b-ac6ed7bd2f99" />
+<img width="1650" alt="Screenshot 2025-07-08 at 11 08 08 AM" src="https://github.com/user-attachments/assets/62073139-ef3a-4b9d-bdf6-4aca3243b755" />
+<img width="1671" alt="Screenshot 2025-07-08 at 11 08 58 AM" src="https://github.com/user-attachments/assets/f94b9698-eed8-4b28-a04a-10d3521a47e9" />
+<img width="1671" alt="Screenshot 2025-07-08 at 11 09 11 AM" src="https://github.com/user-attachments/assets/73147ba8-4cf4-4495-b579-e51eeafaf034" />
+<img width="1436" alt="Screenshot 2025-07-08 at 11 09 32 AM" src="https://github.com/user-attachments/assets/5f81595f-937f-47b1-9c54-a59b4c72107d" />
 
 ## Tech Stack
 
